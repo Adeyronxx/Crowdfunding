@@ -6,9 +6,15 @@ This is a project for Independent Funding, a crowdfunding platform which helps g
 2. Transform and Clean the data to make our analysis process easier.
 
 # Resources
-Jupyter Notebook, Quick DBD, pgAdmin, CSV file (backer_info.csv)
+
+* Jupyter Notebook
+* Quick DBD
+* PgAdmin
+* CSV file (backer_info.csv)
 
 # Analysis
+
+# Result
 
 To conduct our Analysis, we first had to do 3 things;
 
@@ -38,3 +44,8 @@ Next, we created a database and imported all our data
 4. Lastly, we had to determine the amount needed to reach the funding goals on the live campaigns.
 
 <img width="624" alt="Screenshot 2022-11-05 at 7 02 28 PM" src="https://user-images.githubusercontent.com/109445468/200147793-3419456c-9b52-4da2-828f-a90bd3c0eb1a.png">
+
+
+# Summary
+
+In conclusion, we are clearly able to see the names and email information for the backers of each campaign. This will make reaching out to them and informing them of the amount remaining to reach the pledged goal easier.
