@@ -1,5 +1,5 @@
 # Crowdfunding-ETL
-This is a project for Independent Funding, a crowdfunding platform which helps generate funding for independent projects and ventures. Independent funding received a new dataset that contains information about the backers who’ve pledged to the live projects. 
+This is a project for Independent Funding, a crowdfunding platform that helps generate funding for independent projects and ventures. Independent funding received a new dataset that contains information about the backers who’ve pledged to the live projects. 
 
 # Goal of the project.
 1. Extract the information we need to perform an analysis.
