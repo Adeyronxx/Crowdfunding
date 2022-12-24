@@ -48,4 +48,4 @@ Next, we created a database and imported all our data
 
 # Summary
 
-In conclusion, we are clearly able to see the names and email information for the backers of each campaign. This will make reaching out to them and informing them of the amount remaining to reach the pledged goal easier.
+In conclusion, we are clearly able to see the names and email information for the backers of each campaign. This will make communication about the pledged goal easier.
